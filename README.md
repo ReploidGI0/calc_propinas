@@ -4,11 +4,17 @@ Este proyecto consiste en un programa que despliega un listado de elementos (que
 
 Algunas de las cosas que se aprendieron con este proyecto son:
 
-- Modularidad y Reusabilidad con Componentes
-- Lógica de Negocio Encapsulada con Custom Hooks
-- Optimización del Rendimiento (Performance)
-- Tipado Estricto con TypeScript
-- Testing
+### <a /> Modularidad y Reusabilidad con Componentes
+Al utilizar componentes, se hace un desglose de la interfaz mediante la cual se pueden reutilizar componentes (por ejemplo, los alimentos) y se establece una comunicación entre los mismos para mostrar o no el apartado de consumo y sus totales.
+
+### <a /> Custom Hooks
+En el custom hook que se creo en este proyecto, se tiene toda la lógica para agregar o eliminar items del apartado de consumo
+
+### <a /> Optimización del Rendimiento (Performance)
+Mediante el uso de operadores ternarios, se establece si se renderiza un componente o no, lo que puede mejorar el rendimiento de las aplicaciones web.
+
+### <a /> Tipado Estricto con TypeScript
+Se definieron tipos para los props de los componentes y funciones
 
 ![Interfaz Inicial](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG "Interfaz Inicial")
 ![Interfaz Con Producto Agregado](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina2.PNG "Interfaz Con Producto Agregado")
