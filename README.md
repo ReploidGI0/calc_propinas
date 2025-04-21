@@ -10,6 +10,8 @@ Algunas de las cosas que se aprendieron con este proyecto son:
 - Tipado Estricto con TypeScript
 - Testing
 
-![Interfaz - 1](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG) "Interfaz Inicial")
-![Interfaz - 2](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina2.PNG) "Interfaz Con Producto Agregado")
+![Interfaz Inicial](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG "Interfaz Inicial")
+![Interfaz Con Producto Agregado](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina2.PNG "Interfaz Con Producto Agregado")
+
+
 
