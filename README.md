@@ -16,9 +16,11 @@ Mediante el uso de operadores ternarios, se establece si se renderiza un compone
 ### <a /> Tipado Estricto con TypeScript
 Se definieron tipos para los props de los componentes y funciones
 
+---
+
 ![Interfaz Inicial](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG "Interfaz Inicial")
 ![Interfaz Con Producto Agregado](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina2.PNG "Interfaz Con Producto Agregado")
-![Interfaz Con Totales](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina3.PNG "Interfaz Con Totales")
+![Interfaz Con Totales](https://github.com/ReploidGI0/calc_propinas/blob/main/images/propina3.PNG "Interfaz Con Totales")
 
 
 
