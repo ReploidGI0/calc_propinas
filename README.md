@@ -5,5 +5,5 @@ Este proyecto consiste en un programa que despliega un listado de elementos (que
 - 
 - 
 
-![Imagen](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG) "Logo Title Text 1")
-[images/interfaz_propina1.PNG](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG)
+![Interfaz - 1](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG) "Interfaz Inicial")
+
