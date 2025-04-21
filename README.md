@@ -6,3 +6,4 @@ Este proyecto consiste en un programa que despliega un listado de elementos (que
 - 
 
 
+images/interfaz_propina1.PNG
