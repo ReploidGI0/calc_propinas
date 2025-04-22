@@ -16,6 +16,9 @@ Mediante el uso de operadores ternarios, se establece si se renderiza un compone
 ### <a /> Tipado Estricto con TypeScript
 Se definieron tipos para los props de los componentes y funciones
 
+### <a /> Framework CSS
+Se utilizó Tailwind CSS para manejar los estilos de la página
+
 ---
 
 ![Interfaz Inicial](https://github.com/ReploidGI0/calc_propinas/blob/main/images/interfaz_propina1.PNG "Interfaz Inicial")
