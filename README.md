@@ -22,6 +22,8 @@ Se definieron tipos para los props de los componentes y funciones
 ### <a /> Framework CSS
 Se utilizó Tailwind CSS para manejar los estilos de la página
 
+*📷[Screenshots](#screenshots)*
+
 # Tip Calculator with React + TypeScript + Vite
 
 This project consists of a program that displays a list of items (which in this context are food items). Each of these items contains fields such as name, price, and ID. Selecting one of these items adds it to the consumption section, where an order is generated. Once items are added to the order, the subtotal is generated, and once a tip option is selected, the total is generated and the order can be "generated" (actually, the order is reset; the logic to store these orders in a database has not yet been added).
